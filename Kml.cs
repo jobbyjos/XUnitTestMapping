@@ -10,7 +10,6 @@ namespace XUnitTestMapping
     [XmlRoot("kml", Namespace = "http://www.opengis.net/kml/2.2")]
     public class Kml
     {
-        //Checking github
         public Document Document { get; set; }
     }
 
